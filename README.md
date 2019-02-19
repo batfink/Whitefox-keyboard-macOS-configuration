@@ -1,6 +1,6 @@
 # Whitefox configuration for macOS & Windows
 
-Customized version contains these changes:
+Note to self: Customized version contains these changes:
 - Upper left key is remapped to f1
 - Caps lock is remapped to ESC
 - Led keys are removed
