@@ -20,8 +20,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "ESC",
-                    "label": "ESC"
+                    "key": "FUNCTION1",
+                    "label": "ƒ1"
                 },
                 "1": {
                     "key": "#:toggleKbdProtocol()",
@@ -433,10 +433,6 @@
                 "0": {
                     "key": "[",
                     "label": "["
-                },
-                "1": {
-                    "key": "#:ledControl( 0, 15 )",
-                    "label": "LED-"
                 }
             }
         },
@@ -450,10 +446,6 @@
                 "0": {
                     "key": "]",
                     "label": "]"
-                },
-                "1": {
-                    "key": "#:ledControl( 1, 15 )",
-                    "label": "LED+"
                 }
             }
         },
@@ -467,10 +459,6 @@
                 "0": {
                     "key": "BACKSPACE",
                     "label": "BKSP"
-                },
-                "1": {
-                    "key": "#:ledControl( 5, 255 )",
-                    "label": "LED TOG"
                 }
             }
         },
@@ -499,8 +487,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "FUNCTION1",
-                    "label": "ƒ1"
+                    "key": "ESC",
+                    "label": "ESC"
                 }
             }
         },
