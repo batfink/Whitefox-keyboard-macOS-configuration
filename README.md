@@ -1,5 +1,13 @@
 # Whitefox configuration for macOS & Windows
 
+Customized version contains these changes:
+- Upper left key is remapped to f1
+- Caps lock is remapped to ESC
+- Led keys are removed
+
+_From the original README:_
+
+
 This is my configration for [Matt3o's Whitefox keyboard](https://input.club/whitefox) (The True Fox layout).
 
 ![macOS and Windows compatible configuration for the Whitefox keyboard](https://raw.githubusercontent.com/boyvanamstel/Whitefox-keyboard-macOS-configuration/master/assets/configuration.png)
